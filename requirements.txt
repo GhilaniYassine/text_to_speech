@@ -1,0 +1,6 @@
+torch 
+transformers
+phonemizer
+scipy
+munch
+espeak-ng
